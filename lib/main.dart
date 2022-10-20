@@ -3,8 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_pokedex/common/repositories/pokemon_repositories.dart';
 import 'package:flutter_pokedex/container/home_container.dart';
 
-import 'features/home/pages/home_pages.dart';
-
 void main() {
   runApp(const MyApp());
 }
